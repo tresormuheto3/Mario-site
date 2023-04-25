@@ -1,0 +1,508 @@
+.u-visually-hidden[data-v-73dc1d3e]{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+[dir] .u-visually-hidden[data-v-73dc1d3e]{padding:0;margin:-1px;border:0}
+.ourgames-tag[data-v-73dc1d3e]{display:flex;position:relative;flex-direction:column;align-items:center;width:3.5625em;height:3.75em;text-decoration:none;font-size:inherit}
+[dir] .ourgames-tag[data-v-73dc1d3e]{padding-top:.3125em;border-width:1px 1px 0;border-style:solid;border-color:#a3d93f;background:linear-gradient(to bottom, hsl(84, 70%, 34%), hsl(83, 55%, 50%))}
+.ourgames-tag[data-v-73dc1d3e]::before,.ourgames-tag[data-v-73dc1d3e]::after{content:"";position:absolute;bottom:-1.0625em}
+[dir] .ourgames-tag[data-v-73dc1d3e]::before,[dir] .ourgames-tag[data-v-73dc1d3e]::after{border-top:1.125em solid #90c639;border-right:1.78125em solid rgba(0,0,0,0);border-left:1.78125em solid rgba(0,0,0,0)}
+[dir=ltr] .ourgames-tag[data-v-73dc1d3e]::before,[dir="ltr"] .ourgames-tag[data-v-73dc1d3e]::before,[dir='ltr'] .ourgames-tag[data-v-73dc1d3e]::before,[dir=ltr] .ourgames-tag[data-v-73dc1d3e]::after,[dir="ltr"] .ourgames-tag[data-v-73dc1d3e]::after,[dir='ltr'] .ourgames-tag[data-v-73dc1d3e]::after{left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}
+[dir=rtl] .ourgames-tag[data-v-73dc1d3e]::before,[dir="rtl"] .ourgames-tag[data-v-73dc1d3e]::before,[dir='rtl'] .ourgames-tag[data-v-73dc1d3e]::before,[dir=rtl] .ourgames-tag[data-v-73dc1d3e]::after,[dir="rtl"] .ourgames-tag[data-v-73dc1d3e]::after,[dir='rtl'] .ourgames-tag[data-v-73dc1d3e]::after{right:50%;-webkit-transform:translateX(50%);transform:translateX(50%)}
+.ourgames-tag[data-v-73dc1d3e]::before{bottom:-1.125em}
+[dir] .ourgames-tag[data-v-73dc1d3e]::before{border-top-color:#a3d93f}
+.ourgames-tag__block[data-v-73dc1d3e]{display:flex;position:relative;z-index:1;flex-direction:column;align-items:center}
+[dir] .ourgames-tag__block[data-v-73dc1d3e]:not(:last-of-type){margin-bottom:.3125em}
+.ourgames-tag__text[data-v-73dc1d3e]{font-size:.75em;line-height:1.2;color:#fff}
+[dir] .ourgames-tag__text[data-v-73dc1d3e]{margin:0}
+.ourgames-tag__text[data-v-73dc1d3e]:not(.ourgames-tag__text--num){font-size:.6875em}
+.ourgames-tag__text--num[data-v-73dc1d3e]{color:#141a1f}
+.u-visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+[dir] .u-visually-hidden{padding:0;margin:-1px;border:0}
+.sidebar-modal-scroll{scrollbar-color:#63c10b rgba(255,255,255,.1);scrollbar-arrow-color:#63c10b;scrollbar-face-color:#63c10b;scrollbar-track-color:rgba(255,255,255,.1)}
+[dir] .sidebar-modal-scroll::-webkit-scrollbar-track{background-color:rgba(255,255,255,.1)}
+[dir] .sidebar-modal-scroll::-webkit-scrollbar-thumb{background-color:#63c10b}
+.sidebar-modal-rules{position:absolute;top:0;z-index:1;width:100%;height:100%}
+[dir] .sidebar-modal-rules{border-radius:.625em;box-shadow:inset 0em .5em 3.6875em .5em #021627;background:linear-gradient(to top, hsl(206, 85%, 11%), hsl(206, 83%, 23%))}
+[dir=ltr] .sidebar-modal-rules,[dir="ltr"] .sidebar-modal-rules,[dir='ltr'] .sidebar-modal-rules{left:0;padding:3.125em 2.375em 2.1875em 3.125em}
+[dir=rtl] .sidebar-modal-rules,[dir="rtl"] .sidebar-modal-rules,[dir='rtl'] .sidebar-modal-rules{right:0;padding:3.125em 3.125em 2.1875em 2.375em}
+.sidebar-modal-rules__content{position:relative;width:100%;height:calc(100% - 3.125em);color:#fff}
+[dir] .sidebar-modal-rules__content{margin-bottom:.625em}
+[dir=ltr] .sidebar-modal-rules__content,[dir="ltr"] .sidebar-modal-rules__content,[dir='ltr'] .sidebar-modal-rules__content{padding-right:.9375em}
+[dir=rtl] .sidebar-modal-rules__content,[dir="rtl"] .sidebar-modal-rules__content,[dir='rtl'] .sidebar-modal-rules__content{padding-left:.9375em}
+.sidebar-modal-rules__title,.sidebar-modal-rules__subtitle{text-transform:uppercase;font-weight:500;line-height:1}
+[dir] .sidebar-modal-rules__title,[dir] .sidebar-modal-rules__subtitle{text-align:center}
+.sidebar-modal-rules__title{font-size:1.875em}
+[dir] .sidebar-modal-rules__title{margin-top:0;margin-bottom:.5em}
+.sidebar-modal-rules__subtitle{font-size:1.25em}
+[dir] .sidebar-modal-rules__subtitle{margin-top:0;margin-bottom:.75em}
+[dir] .sidebar-modal-rules__text{margin-top:0;margin-bottom:.9375em}
+[dir=ltr] .sidebar-modal-rules__text,[dir="ltr"] .sidebar-modal-rules__text,[dir='ltr'] .sidebar-modal-rules__text{text-align:left}
+[dir=rtl] .sidebar-modal-rules__text,[dir="rtl"] .sidebar-modal-rules__text,[dir='rtl'] .sidebar-modal-rules__text{text-align:right}
+[dir] .sidebar-modal-rules__text--center{text-align:center}
+.sidebar-modal-rules__text--remark{font-size:.75em;color:rgba(255,255,255,.7)}
+[dir] .sidebar-modal-rules__text:last-child{margin-bottom:0}
+.sidebar-modal-rules__list{display:flex;flex-direction:column;align-items:flex-start;list-style-type:none;counter-reset:item}
+[dir] .sidebar-modal-rules__list{padding:0;margin-top:0}
+[dir=ltr] .sidebar-modal-rules__list,[dir="ltr"] .sidebar-modal-rules__list,[dir='ltr'] .sidebar-modal-rules__list{text-align:left}
+[dir=rtl] .sidebar-modal-rules__list,[dir="rtl"] .sidebar-modal-rules__list,[dir='rtl'] .sidebar-modal-rules__list{text-align:right}
+[dir] .sidebar-modal-rules__list:last-child{margin-bottom:0}
+.sidebar-modal-rules__item{position:relative;width:100%}
+[dir] .sidebar-modal-rules__item{margin-bottom:.625em}
+.sidebar-modal-rules__item::before{content:counter(item) ".";counter-increment:item}
+[dir=ltr] .sidebar-modal-rules__item::before,[dir="ltr"] .sidebar-modal-rules__item::before,[dir='ltr'] .sidebar-modal-rules__item::before{padding:0em .3125em 0em .9375em;text-align:right}
+[dir=rtl] .sidebar-modal-rules__item::before,[dir="rtl"] .sidebar-modal-rules__item::before,[dir='rtl'] .sidebar-modal-rules__item::before{padding:0em .9375em 0em .3125em;text-align:left}
+[dir] .sidebar-modal-rules__item:last-child{margin-bottom:0}
+.sidebar-modal-rules__btn{min-width:6.375em;height:2em}
+[dir=ltr] .sidebar-modal-rules__btn,[dir="ltr"] .sidebar-modal-rules__btn,[dir='ltr'] .sidebar-modal-rules__btn{margin-right:0;margin-left:auto}
+[dir=rtl] .sidebar-modal-rules__btn,[dir="rtl"] .sidebar-modal-rules__btn,[dir='rtl'] .sidebar-modal-rules__btn{margin-left:0;margin-right:auto}
+.sidebar-modal-btn{display:flex;position:relative;flex-direction:column;align-items:center;justify-content:center;outline:none;text-decoration:none;font-family:inherit;font-size:inherit}
+[dir] .sidebar-modal-btn{cursor:pointer;padding:0em .3125em;border:none;border-radius:.375em}
+@media screen and (min-width: 0\0 ){
+.sidebar-modal-btn{overflow:visible}}
+.sidebar-modal-btn::after{content:"";opacity:0;display:block;position:absolute;top:0;width:100%;height:100%}
+[dir] .sidebar-modal-btn::after{border-radius:.375em;transition:opacity .5s ease}
+[dir=ltr] .sidebar-modal-btn::after,[dir="ltr"] .sidebar-modal-btn::after,[dir='ltr'] .sidebar-modal-btn::after{left:0}
+[dir=rtl] .sidebar-modal-btn::after,[dir="rtl"] .sidebar-modal-btn::after,[dir='rtl'] .sidebar-modal-btn::after{right:0}
+.sidebar-modal-btn:hover::after{opacity:1}
+[dir] .sidebar-modal-btn--action{background:linear-gradient(to bottom, hsl(91, 89%, 40%), hsl(101, 96%, 20%))}
+[dir] .sidebar-modal-btn--action::after{background:linear-gradient(to bottom, hsl(91, 89%, 50%), hsl(101, 96%, 30%))}
+[dir=ltr] .sidebar-modal-btn--action .sidebar-modal-btn__text,[dir="ltr"] .sidebar-modal-btn--action .sidebar-modal-btn__text,[dir='ltr'] .sidebar-modal-btn--action .sidebar-modal-btn__text{text-shadow:.125em .125em .1875em rgba(15,46,0,.8)}
+[dir=rtl] .sidebar-modal-btn--action .sidebar-modal-btn__text,[dir="rtl"] .sidebar-modal-btn--action .sidebar-modal-btn__text,[dir='rtl'] .sidebar-modal-btn--action .sidebar-modal-btn__text{text-shadow:-0.125em .125em .1875em rgba(15,46,0,.8)}
+[dir] .sidebar-modal-btn--accent{background:linear-gradient(to bottom, hsl(205, 100%, 57%), hsl(219, 81%, 43%))}
+.sidebar-modal-btn--accent::before{content:"";position:absolute;top:2px;z-index:-1;width:96%;height:100%}
+[dir] .sidebar-modal-btn--accent::before{border-radius:.3125em;background:#093e9a}
+[dir] .sidebar-modal-btn--accent::after{background:linear-gradient(to bottom, hsl(205, 100%, 60%), hsl(219, 81%, 55%))}
+[dir=ltr] .sidebar-modal-btn--accent .sidebar-modal-btn__text,[dir="ltr"] .sidebar-modal-btn--accent .sidebar-modal-btn__text,[dir='ltr'] .sidebar-modal-btn--accent .sidebar-modal-btn__text{text-shadow:.125em .125em .1875em rgba(9,62,154,.8)}
+[dir=rtl] .sidebar-modal-btn--accent .sidebar-modal-btn__text,[dir="rtl"] .sidebar-modal-btn--accent .sidebar-modal-btn__text,[dir='rtl'] .sidebar-modal-btn--accent .sidebar-modal-btn__text{text-shadow:-0.125em .125em .1875em rgba(9,62,154,.8)}
+[dir] .sidebar-modal-btn--bonus{background:linear-gradient(to bottom, hsl(91, 89%, 40%), hsl(101, 96%, 20%))}
+.sidebar-modal-btn--bonus::before{content:"";position:absolute;top:2px;z-index:-1;width:96%;height:100%}
+[dir] .sidebar-modal-btn--bonus::before{border-radius:.3125em;background:#194700}
+[dir] .sidebar-modal-btn--bonus::after{background:linear-gradient(to bottom, hsl(91, 89%, 50%), hsl(101, 96%, 30%))}
+[dir=ltr] .sidebar-modal-btn--bonus .sidebar-modal-btn__text,[dir="ltr"] .sidebar-modal-btn--bonus .sidebar-modal-btn__text,[dir='ltr'] .sidebar-modal-btn--bonus .sidebar-modal-btn__text{text-shadow:.125em .125em .1875em rgba(9,62,154,.8)}
+[dir=rtl] .sidebar-modal-btn--bonus .sidebar-modal-btn__text,[dir="rtl"] .sidebar-modal-btn--bonus .sidebar-modal-btn__text,[dir='rtl'] .sidebar-modal-btn--bonus .sidebar-modal-btn__text{text-shadow:-0.125em .125em .1875em rgba(9,62,154,.8)}
+.sidebar-modal-btn--is-disabled{pointer-events:none}
+.sidebar-modal-btn--is-disabled::before{content:"";position:absolute;top:0;width:100%;height:100%}
+[dir] .sidebar-modal-btn--is-disabled::before{border-radius:.375em;background:rgba(0,0,0,.6)}
+[dir=ltr] .sidebar-modal-btn--is-disabled::before,[dir="ltr"] .sidebar-modal-btn--is-disabled::before,[dir='ltr'] .sidebar-modal-btn--is-disabled::before{left:0}
+[dir=rtl] .sidebar-modal-btn--is-disabled::before,[dir="rtl"] .sidebar-modal-btn--is-disabled::before,[dir='rtl'] .sidebar-modal-btn--is-disabled::before{right:0}
+.sidebar-modal-btn__text{position:relative;z-index:1;text-transform:uppercase;font-size:.6875em;font-weight:500;line-height:1.2;color:#fff}
+[dir] .sidebar-modal-btn__text{text-align:center}
+.u-visually-hidden[data-v-1e5dcfd1]{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+[dir] .u-visually-hidden[data-v-1e5dcfd1]{padding:0;margin:-1px;border:0}
+.sidebar-modal[data-v-1e5dcfd1]{display:flex;position:relative;justify-content:space-between;width:43.75em;height:auto;min-height:25em;font-size:16px}
+[dir] .sidebar-modal[data-v-1e5dcfd1]{padding:3.125em;border-radius:.625em;box-shadow:0em 0em 0em .625em rgba(255,255,255,.24);background:linear-gradient(to top, hsl(206, 85%, 11%), hsl(206, 83%, 23%));background-size:100% 100%}
+@media screen and (max-width: 1600px){
+.sidebar-modal[data-v-1e5dcfd1]{font-size:14px}}
+.sidebar-modal[data-v-1e5dcfd1],.sidebar-modal *[data-v-1e5dcfd1]{box-sizing:border-box}
+.sidebar-modal.wheel-win-modal[data-v-1e5dcfd1]{position:absolute;width:100%;height:100%}
+[dir] .sidebar-modal.wheel-win-modal[data-v-1e5dcfd1]{box-shadow:none}
+.sidebar-modal .main-preloader[data-v-1e5dcfd1]{position:absolute;z-index:4}
+[dir] .sidebar-modal .main-preloader[data-v-1e5dcfd1]{border-radius:.625em;box-shadow:inset 0em .5em 3.6875em .5em #021627;background:linear-gradient(to top, hsl(206, 85%, 11%), hsl(206, 83%, 23%))}
+.sidebar-modal__gradient[data-v-1e5dcfd1]{position:absolute;top:0;width:100%;height:100%;overflow:hidden}
+[dir] .sidebar-modal__gradient[data-v-1e5dcfd1]{border-radius:.625em;box-shadow:inset 0em .6666666667em 4.9166666667em .6666666667em #021627}
+[dir=ltr] .sidebar-modal__gradient[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__gradient[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__gradient[data-v-1e5dcfd1]{left:0}
+[dir=rtl] .sidebar-modal__gradient[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__gradient[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__gradient[data-v-1e5dcfd1]{right:0}
+.sidebar-modal__gradient[data-v-1e5dcfd1]::before{content:"";position:absolute;top:11.875em;width:1.25em;height:1.25em}
+[dir] .sidebar-modal__gradient[data-v-1e5dcfd1]::before{border-radius:50%;box-shadow:0em 0em 6.25em 7.5em #00a8e6,0em 0em 9.6875em 10.9375em #0554ad;background:#00a5e0}
+[dir=ltr] .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir="ltr"] .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir='ltr'] .sidebar-modal__gradient[data-v-1e5dcfd1]::before{left:30.9375em}
+[dir=rtl] .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir="rtl"] .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir='rtl'] .sidebar-modal__gradient[data-v-1e5dcfd1]::before{right:30.9375em}
+.sidebar-modal__close[data-v-1e5dcfd1]{display:flex;position:absolute;top:-1.25em;z-index:5;align-items:center;justify-content:center;width:2.625em;height:2.625em;outline:none;font-size:inherit}
+[dir] .sidebar-modal__close[data-v-1e5dcfd1]{cursor:pointer;padding:0;border:none;border-radius:50%;box-shadow:0em 0em 0em .25em #0a6ab2,inset 0em 0em .625em .25em #053c6b;background:#036abf}
+[dir=ltr] .sidebar-modal__close[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__close[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__close[data-v-1e5dcfd1]{right:-1.625em}
+[dir=rtl] .sidebar-modal__close[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__close[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__close[data-v-1e5dcfd1]{left:-1.625em}
+.sidebar-modal__close[data-v-1e5dcfd1]::before{content:"";opacity:0;position:absolute;top:0;width:100%;height:100%}
+[dir] .sidebar-modal__close[data-v-1e5dcfd1]::before{border-radius:50%;background:rgba(255,255,255,.1);transition:opacity .2s linear}
+[dir=ltr] .sidebar-modal__close[data-v-1e5dcfd1]::before,[dir="ltr"] .sidebar-modal__close[data-v-1e5dcfd1]::before,[dir='ltr'] .sidebar-modal__close[data-v-1e5dcfd1]::before{left:0}
+[dir=rtl] .sidebar-modal__close[data-v-1e5dcfd1]::before,[dir="rtl"] .sidebar-modal__close[data-v-1e5dcfd1]::before,[dir='rtl'] .sidebar-modal__close[data-v-1e5dcfd1]::before{right:0}
+.sidebar-modal__close .sidebar-modal__ico[data-v-1e5dcfd1]{width:1.25em;height:1.25em;fill:#fff}
+.sidebar-modal__close[data-v-1e5dcfd1]:hover::before,.sidebar-modal__close[data-v-1e5dcfd1]:focus::before{opacity:1}
+.sidebar-modal__col[data-v-1e5dcfd1]{position:relative;width:18.4375em;will-change:transform}
+.sidebar-modal__col--left[data-v-1e5dcfd1]{display:flex;flex-direction:column;justify-content:space-between}
+.sidebar-modal__col--right[data-v-1e5dcfd1]{max-height:21.875em}
+.sidebar-modal__title[data-v-1e5dcfd1]{text-transform:uppercase;font-family:"Roboto",sans-serif;font-size:2.5em;font-weight:700;line-height:1.2;color:#fff}
+[dir] .sidebar-modal__title[data-v-1e5dcfd1]{margin-top:0;margin-bottom:.625em}
+[dir=ltr] .sidebar-modal__title[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__title[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__title[data-v-1e5dcfd1]{text-align:left;text-shadow:-0.05em .05em .1em rgba(4,24,42,.72)}
+[dir=rtl] .sidebar-modal__title[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__title[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__title[data-v-1e5dcfd1]{text-align:right;text-shadow:0.05em .05em .1em rgba(4,24,42,.72)}
+.sidebar-modal__title[data-v-1e5dcfd1]:lang(hy){font-size:2.25em}
+[dir] .sidebar-modal__title--loose[data-v-1e5dcfd1]{margin-bottom:.1388888889em}
+.sidebar-modal__subtitle[data-v-1e5dcfd1]{max-width:80%;font-size:.875em;line-height:1.5em;color:#fff}
+[dir] .sidebar-modal__subtitle[data-v-1e5dcfd1]{margin-bottom:.7142857143em}
+[dir=ltr] .sidebar-modal__subtitle[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__subtitle[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__subtitle[data-v-1e5dcfd1]{text-align:left}
+[dir=rtl] .sidebar-modal__subtitle[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__subtitle[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__subtitle[data-v-1e5dcfd1]{text-align:right}
+.sidebar-modal__text[data-v-1e5dcfd1]{font-size:.875em;color:#fff}
+[dir] .sidebar-modal__text[data-v-1e5dcfd1]{margin-top:0;margin-bottom:.7142857143em}
+.sidebar-modal__rules[data-v-1e5dcfd1],.sidebar-modal__prizes[data-v-1e5dcfd1]{display:block;position:relative;outline:none;font-size:.875em;color:#fff}
+[dir] .sidebar-modal__rules[data-v-1e5dcfd1],[dir] .sidebar-modal__prizes[data-v-1e5dcfd1]{cursor:pointer;padding:0;border:none;background:none}
+[dir=ltr] .sidebar-modal__rules[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__rules[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__rules[data-v-1e5dcfd1],[dir=ltr] .sidebar-modal__prizes[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal__prizes[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal__prizes[data-v-1e5dcfd1]{margin-right:auto}
+[dir=rtl] .sidebar-modal__rules[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__rules[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__rules[data-v-1e5dcfd1],[dir=rtl] .sidebar-modal__prizes[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal__prizes[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal__prizes[data-v-1e5dcfd1]{margin-left:auto}
+@media screen and (min-width: 0\0 ){
+.sidebar-modal__rules[data-v-1e5dcfd1],.sidebar-modal__prizes[data-v-1e5dcfd1]{overflow:visible}}
+.sidebar-modal__rules[data-v-1e5dcfd1]::before,.sidebar-modal__prizes[data-v-1e5dcfd1]::before{content:"";position:absolute;bottom:-.3571428571em;width:100%;height:2px}
+[dir] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir] .sidebar-modal__prizes[data-v-1e5dcfd1]::before{background:rgba(255,255,255,.4);transition:opacity .2s linear}
+[dir=ltr] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir="ltr"] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir='ltr'] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir=ltr] .sidebar-modal__prizes[data-v-1e5dcfd1]::before,[dir="ltr"] .sidebar-modal__prizes[data-v-1e5dcfd1]::before,[dir='ltr'] .sidebar-modal__prizes[data-v-1e5dcfd1]::before{left:0}
+[dir=rtl] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir="rtl"] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir='rtl'] .sidebar-modal__rules[data-v-1e5dcfd1]::before,[dir=rtl] .sidebar-modal__prizes[data-v-1e5dcfd1]::before,[dir="rtl"] .sidebar-modal__prizes[data-v-1e5dcfd1]::before,[dir='rtl'] .sidebar-modal__prizes[data-v-1e5dcfd1]::before{right:0}
+.sidebar-modal__rules[data-v-1e5dcfd1]:hover::before,.sidebar-modal__rules[data-v-1e5dcfd1]:focus::before,.sidebar-modal__prizes[data-v-1e5dcfd1]:hover::before,.sidebar-modal__prizes[data-v-1e5dcfd1]:focus::before{opacity:0}
+.sidebar-modal__footer[data-v-1e5dcfd1]{z-index:0}
+[dir] .sidebar-modal__footer[data-v-1e5dcfd1]{margin-top:auto}
+.sidebar-modal__row[data-v-1e5dcfd1]{display:flex;align-items:center;justify-content:space-between}
+.sidebar-modal-label[data-v-1e5dcfd1]{display:flex;position:absolute;z-index:1;align-items:center;justify-content:flex-end;height:1.3636363636em;text-transform:uppercase;font-size:.6875em;font-weight:700;color:#fff;-webkit-clip-path:polygon(0.9090909091em 0%, 100% 0, 100% 100%, 0% 100%);clip-path:polygon(0.9090909091em 0%, 100% 0, 100% 100%, 0% 100%)}
+[dir=ltr] .sidebar-modal-label[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-label[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-label[data-v-1e5dcfd1]{right:0;padding-right:.4545454545em;padding-left:1.3636363636em;background:linear-gradient(to right, hsl(83, 61%, 46%) 0.9090909091em, hsl(88, 62%, 35%))}
+[dir=rtl] .sidebar-modal-label[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-label[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-label[data-v-1e5dcfd1]{left:0;padding-left:.4545454545em;padding-right:1.3636363636em;background:linear-gradient(to left, hsl(83, 61%, 46%) 0.9090909091em, hsl(88, 62%, 35%))}
+[dir=rtl] .sidebar-modal-label[data-v-1e5dcfd1]{-webkit-clip-path:polygon(0% 0%, calc(100% - 0.9090909091em) 0, 100% 100%, 0% 100%);clip-path:polygon(0% 0%, calc(100% - 0.9090909091em) 0, 100% 100%, 0% 100%)}
+.sidebar-modal-countdown[data-v-1e5dcfd1]{display:flex;flex-direction:column}
+.sidebar-modal-countdown__text[data-v-1e5dcfd1]{font-size:.875em;color:#fff}
+[dir] .sidebar-modal-countdown__text[data-v-1e5dcfd1]{margin-bottom:.3571428571em}
+[dir=ltr] .sidebar-modal-countdown__text[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-countdown__text[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-countdown__text[data-v-1e5dcfd1]{text-align:left}
+[dir=rtl] .sidebar-modal-countdown__text[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-countdown__text[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-countdown__text[data-v-1e5dcfd1]{text-align:right}
+.sidebar-modal-games[data-v-1e5dcfd1],.sidebar-modal-bingo-inner[data-v-1e5dcfd1]{position:absolute;top:0;z-index:1;width:100%;height:100%}
+[dir] .sidebar-modal-games[data-v-1e5dcfd1],[dir] .sidebar-modal-bingo-inner[data-v-1e5dcfd1]{padding:2.1875em 3.125em;border-radius:.625em;box-shadow:inset 0em .5em 3.6875em .5em #021627;background:linear-gradient(to top, hsl(206, 85%, 11%), hsl(206, 83%, 23%))}
+[dir=ltr] .sidebar-modal-games[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-games[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-games[data-v-1e5dcfd1],[dir=ltr] .sidebar-modal-bingo-inner[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-bingo-inner[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-bingo-inner[data-v-1e5dcfd1]{left:0}
+[dir=rtl] .sidebar-modal-games[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-games[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-games[data-v-1e5dcfd1],[dir=rtl] .sidebar-modal-bingo-inner[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-bingo-inner[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-bingo-inner[data-v-1e5dcfd1]{right:0}
+.sidebar-modal-games[data-v-1e5dcfd1]{display:flex;flex-direction:column}
+.sidebar-modal-games__content[data-v-1e5dcfd1]{display:flex;flex-wrap:wrap;width:100%;height:17.5em}
+[dir] .sidebar-modal-games__content[data-v-1e5dcfd1]{margin-bottom:.5em}
+[dir=ltr] .sidebar-modal-games__content[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-games__content[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-games__content[data-v-1e5dcfd1]{padding-right:.9375em}
+[dir=rtl] .sidebar-modal-games__content[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-games__content[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-games__content[data-v-1e5dcfd1]{padding-left:.9375em}
+.sidebar-modal-games .cashback-modal-game[data-v-1e5dcfd1]{width:calc((100% - 1.1875em)/3);height:3em}
+[dir] .sidebar-modal-games .cashback-modal-game[data-v-1e5dcfd1]{margin:0em .1875em .5em;background:rgba(255,255,255,.1);transition:background .2s linear}
+[dir] .sidebar-modal-games .cashback-modal-game--is-active[data-v-1e5dcfd1],[dir] .sidebar-modal-games .cashback-modal-game[data-v-1e5dcfd1]:hover{background:rgba(108,215,20,.3)}
+.sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1]{width:1.6875em;height:1.6875em}
+[dir=ltr] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1],[dir="ltr"] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1],[dir='ltr'] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1]{margin-right:.3125em}
+[dir=rtl] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1],[dir="rtl"] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1],[dir='rtl'] .sidebar-modal-games .cashback-modal-game__pic[data-v-1e5dcfd1]{margin-left:.3125em}
+.sidebar-modal-games .cashback-modal-game__title[data-v-1e5dcfd1]{max-width:10em;font-size:.6875em}
+.sidebar-modal-games .cashback-modal-game__value[data-v-1e5dcfd1]{font-size:.625em}
+.sidebar-modal-games__panel[data-v-1e5dcfd1]{display:flex;align-items:center;justify-content:space-between}
+.sidebar-modal-games__chosen[data-v-1e5dcfd1]{font-size:.875em;color:#fff}
+.sidebar-modal-games__btns[data-v-1e5dcfd1]{display:flex}
+.sidebar-modal-games__btn[data-v-1e5dcfd1]{min-width:7.375em;height:2em}
+.ourgames-sidebar[data-v-1e5dcfd1]{position:fixed;top:50%;z-index:1001}
+[dir] .ourgames-sidebar[data-v-1e5dcfd1]{-webkit-transform:translateY(-50%);transform:translateY(-50%)}
+[dir=ltr] .ourgames-sidebar[data-v-1e5dcfd1],[dir="ltr"] .ourgames-sidebar[data-v-1e5dcfd1],[dir='ltr'] .ourgames-sidebar[data-v-1e5dcfd1]{right:0}
+[dir=rtl] .ourgames-sidebar[data-v-1e5dcfd1],[dir="rtl"] .ourgames-sidebar[data-v-1e5dcfd1],[dir='rtl'] .ourgames-sidebar[data-v-1e5dcfd1]{left:0}
+.games .ourgames-sidebar[data-v-1e5dcfd1]{position:relative;top:inherit}
+[dir] .games .ourgames-sidebar[data-v-1e5dcfd1]{-webkit-transform:inherit;transform:inherit}
+.ourgames-sidebar--has-modal[data-v-1e5dcfd1]{z-index:1004}
+.ourgames-sidebar__list[data-v-1e5dcfd1]{display:flex;flex-direction:column;list-style-type:none}
+[dir] .ourgames-sidebar__list[data-v-1e5dcfd1]{padding:1px;margin:0 0 1px;background:#3c3d3e}
+.ourgames-sidebar__tooltip[data-v-1e5dcfd1]{display:none;position:absolute;top:50%;min-width:7.8571428571em;font-size:.875em;line-height:1;color:#fff}
+[dir] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]{padding:.3571428571em .7142857143em;border:1px solid #999;border-radius:.2857142857em;background:#141a1f;text-align:center;-webkit-transform:translateY(-50%);transform:translateY(-50%)}
+[dir=ltr] .ourgames-sidebar__tooltip[data-v-1e5dcfd1],[dir="ltr"] .ourgames-sidebar__tooltip[data-v-1e5dcfd1],[dir='ltr'] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]{right:calc(100% + 1.0714285714em)}
+[dir=rtl] .ourgames-sidebar__tooltip[data-v-1e5dcfd1],[dir="rtl"] .ourgames-sidebar__tooltip[data-v-1e5dcfd1],[dir='rtl'] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]{left:calc(100% + 1.0714285714em)}
+.ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before{content:"";position:absolute;top:50%;width:.5714285714em;height:.5714285714em}
+[dir] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before{border-top:inherit;box-shadow:inherit;background:inherit}
+[dir=ltr] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before,[dir="ltr"] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before,[dir='ltr'] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before{right:-1em;border-left:inherit;-webkit-transform:rotate(135deg);transform:rotate(135deg);-webkit-transform-origin:0 0;transform-origin:0 0}
+[dir=rtl] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before,[dir="rtl"] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before,[dir='rtl'] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before{left:-1em;border-right:inherit;-webkit-transform:rotate(-135deg);transform:rotate(-135deg);-webkit-transform-origin:100% 0;transform-origin:100% 0}
+[dir=rtl] .ourgames-sidebar__tooltip[data-v-1e5dcfd1]::before{-webkit-transform:rotate(-135deg);transform:rotate(-135deg);-webkit-transform-origin:100% 0;transform-origin:100% 0}
+.ourgames-sidebar__item[data-v-1e5dcfd1]{position:relative}
+.ourgames-sidebar__item:hover .ourgames-sidebar__tooltip[data-v-1e5dcfd1]{display:block}
+[dir] .ourgames-sidebar__item[data-v-1e5dcfd1]:not(:last-of-type){margin-bottom:1px}
+.ourgames-sidebar__link[data-v-1e5dcfd1]{display:flex;position:relative;align-items:center;justify-content:center;width:3.375em;height:3.375em;outline:none;font-size:inherit}
+[dir] .ourgames-sidebar__link[data-v-1e5dcfd1]{cursor:pointer;padding:0;border:none;box-shadow:none;background:#141a1f}
+.ourgames-sidebar__link[data-v-1e5dcfd1]::before{content:"";position:absolute;top:-1px;z-index:1;width:2px;height:calc(100% + 2px)}
+[dir] .ourgames-sidebar__link[data-v-1e5dcfd1]::before{background:rgba(0,0,0,0);transition:background .2s linear}
+[dir=ltr] .ourgames-sidebar__link[data-v-1e5dcfd1]::before,[dir="ltr"] .ourgames-sidebar__link[data-v-1e5dcfd1]::before,[dir='ltr'] .ourgames-sidebar__link[data-v-1e5dcfd1]::before{left:-1px}
+[dir=rtl] .ourgames-sidebar__link[data-v-1e5dcfd1]::before,[dir="rtl"] .ourgames-sidebar__link[data-v-1e5dcfd1]::before,[dir='rtl'] .ourgames-sidebar__link[data-v-1e5dcfd1]::before{right:-1px}
+[dir] .ourgames-sidebar__link.open[data-v-1e5dcfd1]::before,[dir] .ourgames-sidebar__link[data-v-1e5dcfd1]:hover::before{background:#a3d93f}
+.ourgames-sidebar__link.open .ourgames-sidebar__ico[data-v-1e5dcfd1],.ourgames-sidebar__link:hover .ourgames-sidebar__ico[data-v-1e5dcfd1]{fill:#a3d93f}
+.ourgames-sidebar__ico[data-v-1e5dcfd1]{max-width:1.5em;max-height:1.5em;fill:#999}
+[dir] .ourgames-sidebar__ico[data-v-1e5dcfd1]{transition:fill .2s linear}
+.ourgames-bonus[data-v-1e5dcfd1]{width:18.75em;height:10em;font-size:16px}
+[dir] .ourgames-bonus[data-v-1e5dcfd1]{padding:0}
+.ourgames-bonus__wrap[data-v-1e5dcfd1]{position:fixed;top:9.6875em;z-index:100}
+[dir=ltr] .ourgames-bonus__wrap[data-v-1e5dcfd1],[dir="ltr"] .ourgames-bonus__wrap[data-v-1e5dcfd1],[dir='ltr'] .ourgames-bonus__wrap[data-v-1e5dcfd1]{right:4.6875em;left:auto}
+[dir=rtl] .ourgames-bonus__wrap[data-v-1e5dcfd1],[dir="rtl"] .ourgames-bonus__wrap[data-v-1e5dcfd1],[dir='rtl'] .ourgames-bonus__wrap[data-v-1e5dcfd1]{left:4.6875em;right:auto}
+.ourgames-bonus.sidebar-modal[data-v-1e5dcfd1]{min-height:10em}
+.ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before{top:50%;width:.125em;height:.125em}
+[dir] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before{border-radius:50%;box-shadow:0em 0em 3.4375em 2.8125em #00a8e6,0em 0em 5.3125em 5.9375em #0554ad}
+[dir=ltr] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir="ltr"] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir='ltr'] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before{right:auto;left:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}
+[dir=rtl] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir="rtl"] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before,[dir='rtl'] .ourgames-bonus .sidebar-modal__gradient[data-v-1e5dcfd1]::before{left:auto;right:50%;-webkit-transform:translate(50%, -50%);transform:translate(50%, -50%)}
+.ourgames-bonus__content[data-v-1e5dcfd1]{display:flex;position:relative;flex-direction:column;align-items:center;justify-content:center;width:100%}
+.ourgames-bonus__info[data-v-1e5dcfd1]{display:flex;align-items:center;justify-content:center}
+[dir] .ourgames-bonus__info[data-v-1e5dcfd1]{margin-bottom:1.5625em}
+[dir] .ourgames-bonus__icon[data-v-1e5dcfd1],[dir] .ourgames-bonus__ico[data-v-1e5dcfd1]{margin:0em .625em}
+.ourgames-bonus__icon[data-v-1e5dcfd1]{width:2.8125em;height:2.8125em}
+.ourgames-bonus__ico[data-v-1e5dcfd1]{width:2.8125em;height:2.8125em;fill:#fff}
+.ourgames-bonus__title[data-v-1e5dcfd1]{max-width:80%;font-size:.875em;color:#fff}
+[dir] .ourgames-bonus__title[data-v-1e5dcfd1]{text-align:center}
+.icon-game-109[data-v-1e5dcfd1]{background-position:0% 0;height:100%;width:100%}
+[dir] .icon-game-109[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-116[data-v-1e5dcfd1]{background-position:.7092198582% 0;height:100%;width:100%}
+[dir] .icon-game-116[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-117[data-v-1e5dcfd1]{background-position:1.4184397163% 0;height:100%;width:100%}
+[dir] .icon-game-117[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-118[data-v-1e5dcfd1]{background-position:2.1276595745% 0;height:100%;width:100%}
+[dir] .icon-game-118[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-122[data-v-1e5dcfd1]{background-position:2.8368794326% 0;height:100%;width:100%}
+[dir] .icon-game-122[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-126[data-v-1e5dcfd1]{background-position:3.5460992908% 0;height:100%;width:100%}
+[dir] .icon-game-126[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-127[data-v-1e5dcfd1]{background-position:4.2553191489% 0;height:100%;width:100%}
+[dir] .icon-game-127[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-128[data-v-1e5dcfd1]{background-position:4.9645390071% 0;height:100%;width:100%}
+[dir] .icon-game-128[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-130[data-v-1e5dcfd1]{background-position:5.6737588652% 0;height:100%;width:100%}
+[dir] .icon-game-130[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-136[data-v-1e5dcfd1]{background-position:6.3829787234% 0;height:100%;width:100%}
+[dir] .icon-game-136[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-137[data-v-1e5dcfd1]{background-position:7.0921985816% 0;height:100%;width:100%}
+[dir] .icon-game-137[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-138[data-v-1e5dcfd1]{background-position:7.8014184397% 0;height:100%;width:100%}
+[dir] .icon-game-138[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-139[data-v-1e5dcfd1]{background-position:8.5106382979% 0;height:100%;width:100%}
+[dir] .icon-game-139[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-140[data-v-1e5dcfd1]{background-position:9.219858156% 0;height:100%;width:100%}
+[dir] .icon-game-140[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-142[data-v-1e5dcfd1]{background-position:9.9290780142% 0;height:100%;width:100%}
+[dir] .icon-game-142[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-143[data-v-1e5dcfd1]{background-position:10.6382978723% 0;height:100%;width:100%}
+[dir] .icon-game-143[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-152[data-v-1e5dcfd1]{background-position:11.3475177305% 0;height:100%;width:100%}
+[dir] .icon-game-152[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-154[data-v-1e5dcfd1]{background-position:12.0567375887% 0;height:100%;width:100%}
+[dir] .icon-game-154[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-156[data-v-1e5dcfd1]{background-position:12.7659574468% 0;height:100%;width:100%}
+[dir] .icon-game-156[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-158[data-v-1e5dcfd1]{background-position:13.475177305% 0;height:100%;width:100%}
+[dir] .icon-game-158[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-164[data-v-1e5dcfd1]{background-position:14.1843971631% 0;height:100%;width:100%}
+[dir] .icon-game-164[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-167[data-v-1e5dcfd1]{background-position:14.8936170213% 0;height:100%;width:100%}
+[dir] .icon-game-167[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-168[data-v-1e5dcfd1]{background-position:15.6028368794% 0;height:100%;width:100%}
+[dir] .icon-game-168[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-169[data-v-1e5dcfd1]{background-position:16.3120567376% 0;height:100%;width:100%}
+[dir] .icon-game-169[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-170[data-v-1e5dcfd1]{background-position:17.0212765957% 0;height:100%;width:100%}
+[dir] .icon-game-170[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-171[data-v-1e5dcfd1]{background-position:17.7304964539% 0;height:100%;width:100%}
+[dir] .icon-game-171[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-172[data-v-1e5dcfd1]{background-position:18.4397163121% 0;height:100%;width:100%}
+[dir] .icon-game-172[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-173[data-v-1e5dcfd1]{background-position:19.1489361702% 0;height:100%;width:100%}
+[dir] .icon-game-173[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-174[data-v-1e5dcfd1]{background-position:19.8581560284% 0;height:100%;width:100%}
+[dir] .icon-game-174[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-175[data-v-1e5dcfd1]{background-position:20.5673758865% 0;height:100%;width:100%}
+[dir] .icon-game-175[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-178[data-v-1e5dcfd1]{background-position:21.2765957447% 0;height:100%;width:100%}
+[dir] .icon-game-178[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-179[data-v-1e5dcfd1]{background-position:21.9858156028% 0;height:100%;width:100%}
+[dir] .icon-game-179[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-180[data-v-1e5dcfd1]{background-position:22.695035461% 0;height:100%;width:100%}
+[dir] .icon-game-180[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-181[data-v-1e5dcfd1]{background-position:23.4042553191% 0;height:100%;width:100%}
+[dir] .icon-game-181[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-182[data-v-1e5dcfd1]{background-position:24.1134751773% 0;height:100%;width:100%}
+[dir] .icon-game-182[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-183[data-v-1e5dcfd1]{background-position:24.8226950355% 0;height:100%;width:100%}
+[dir] .icon-game-183[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-184[data-v-1e5dcfd1]{background-position:25.5319148936% 0;height:100%;width:100%}
+[dir] .icon-game-184[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-185[data-v-1e5dcfd1]{background-position:26.2411347518% 0;height:100%;width:100%}
+[dir] .icon-game-185[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-188[data-v-1e5dcfd1]{background-position:26.9503546099% 0;height:100%;width:100%}
+[dir] .icon-game-188[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-189[data-v-1e5dcfd1]{background-position:27.6595744681% 0;height:100%;width:100%}
+[dir] .icon-game-189[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-190[data-v-1e5dcfd1]{background-position:28.3687943262% 0;height:100%;width:100%}
+[dir] .icon-game-190[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-195[data-v-1e5dcfd1]{background-position:29.0780141844% 0;height:100%;width:100%}
+[dir] .icon-game-195[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-196[data-v-1e5dcfd1]{background-position:29.7872340426% 0;height:100%;width:100%}
+[dir] .icon-game-196[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-197[data-v-1e5dcfd1]{background-position:30.4964539007% 0;height:100%;width:100%}
+[dir] .icon-game-197[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-202[data-v-1e5dcfd1]{background-position:31.2056737589% 0;height:100%;width:100%}
+[dir] .icon-game-202[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-205[data-v-1e5dcfd1]{background-position:31.914893617% 0;height:100%;width:100%}
+[dir] .icon-game-205[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-207[data-v-1e5dcfd1]{background-position:32.6241134752% 0;height:100%;width:100%}
+[dir] .icon-game-207[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-208[data-v-1e5dcfd1]{background-position:33.3333333333% 0;height:100%;width:100%}
+[dir] .icon-game-208[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-210[data-v-1e5dcfd1]{background-position:34.0425531915% 0;height:100%;width:100%}
+[dir] .icon-game-210[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-212[data-v-1e5dcfd1]{background-position:34.7517730496% 0;height:100%;width:100%}
+[dir] .icon-game-212[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-213[data-v-1e5dcfd1]{background-position:35.4609929078% 0;height:100%;width:100%}
+[dir] .icon-game-213[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-214[data-v-1e5dcfd1]{background-position:36.170212766% 0;height:100%;width:100%}
+[dir] .icon-game-214[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-217[data-v-1e5dcfd1]{background-position:36.8794326241% 0;height:100%;width:100%}
+[dir] .icon-game-217[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-219[data-v-1e5dcfd1]{background-position:37.5886524823% 0;height:100%;width:100%}
+[dir] .icon-game-219[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-220[data-v-1e5dcfd1]{background-position:38.2978723404% 0;height:100%;width:100%}
+[dir] .icon-game-220[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-221[data-v-1e5dcfd1]{background-position:39.0070921986% 0;height:100%;width:100%}
+[dir] .icon-game-221[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-222[data-v-1e5dcfd1]{background-position:39.7163120567% 0;height:100%;width:100%}
+[dir] .icon-game-222[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-223[data-v-1e5dcfd1]{background-position:40.4255319149% 0;height:100%;width:100%}
+[dir] .icon-game-223[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-224[data-v-1e5dcfd1]{background-position:41.134751773% 0;height:100%;width:100%}
+[dir] .icon-game-224[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-226[data-v-1e5dcfd1]{background-position:41.8439716312% 0;height:100%;width:100%}
+[dir] .icon-game-226[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-227[data-v-1e5dcfd1]{background-position:42.5531914894% 0;height:100%;width:100%}
+[dir] .icon-game-227[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-228[data-v-1e5dcfd1]{background-position:43.2624113475% 0;height:100%;width:100%}
+[dir] .icon-game-228[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-229[data-v-1e5dcfd1]{background-position:43.9716312057% 0;height:100%;width:100%}
+[dir] .icon-game-229[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-230[data-v-1e5dcfd1]{background-position:44.6808510638% 0;height:100%;width:100%}
+[dir] .icon-game-230[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-233[data-v-1e5dcfd1]{background-position:45.390070922% 0;height:100%;width:100%}
+[dir] .icon-game-233[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-236[data-v-1e5dcfd1]{background-position:46.0992907801% 0;height:100%;width:100%}
+[dir] .icon-game-236[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-241[data-v-1e5dcfd1]{background-position:46.8085106383% 0;height:100%;width:100%}
+[dir] .icon-game-241[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-242[data-v-1e5dcfd1]{background-position:47.5177304965% 0;height:100%;width:100%}
+[dir] .icon-game-242[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-249[data-v-1e5dcfd1]{background-position:48.2269503546% 0;height:100%;width:100%}
+[dir] .icon-game-249[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-253[data-v-1e5dcfd1]{background-position:48.9361702128% 0;height:100%;width:100%}
+[dir] .icon-game-253[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-263[data-v-1e5dcfd1]{background-position:49.6453900709% 0;height:100%;width:100%}
+[dir] .icon-game-263[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-265[data-v-1e5dcfd1]{background-position:50.3546099291% 0;height:100%;width:100%}
+[dir] .icon-game-265[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-268[data-v-1e5dcfd1]{background-position:51.0638297872% 0;height:100%;width:100%}
+[dir] .icon-game-268[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-269[data-v-1e5dcfd1]{background-position:51.7730496454% 0;height:100%;width:100%}
+[dir] .icon-game-269[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-270[data-v-1e5dcfd1]{background-position:52.4822695035% 0;height:100%;width:100%}
+[dir] .icon-game-270[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-273[data-v-1e5dcfd1]{background-position:53.1914893617% 0;height:100%;width:100%}
+[dir] .icon-game-273[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-276[data-v-1e5dcfd1]{background-position:53.9007092199% 0;height:100%;width:100%}
+[dir] .icon-game-276[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-278[data-v-1e5dcfd1]{background-position:54.609929078% 0;height:100%;width:100%}
+[dir] .icon-game-278[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-284[data-v-1e5dcfd1]{background-position:55.3191489362% 0;height:100%;width:100%}
+[dir] .icon-game-284[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-285[data-v-1e5dcfd1]{background-position:56.0283687943% 0;height:100%;width:100%}
+[dir] .icon-game-285[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-286[data-v-1e5dcfd1]{background-position:56.7375886525% 0;height:100%;width:100%}
+[dir] .icon-game-286[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-290[data-v-1e5dcfd1]{background-position:57.4468085106% 0;height:100%;width:100%}
+[dir] .icon-game-290[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-297[data-v-1e5dcfd1]{background-position:58.1560283688% 0;height:100%;width:100%}
+[dir] .icon-game-297[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-298[data-v-1e5dcfd1]{background-position:58.865248227% 0;height:100%;width:100%}
+[dir] .icon-game-298[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-307[data-v-1e5dcfd1]{background-position:59.5744680851% 0;height:100%;width:100%}
+[dir] .icon-game-307[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-312[data-v-1e5dcfd1]{background-position:60.2836879433% 0;height:100%;width:100%}
+[dir] .icon-game-312[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-314[data-v-1e5dcfd1]{background-position:60.9929078014% 0;height:100%;width:100%}
+[dir] .icon-game-314[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-316[data-v-1e5dcfd1]{background-position:61.7021276596% 0;height:100%;width:100%}
+[dir] .icon-game-316[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-317[data-v-1e5dcfd1]{background-position:62.4113475177% 0;height:100%;width:100%}
+[dir] .icon-game-317[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-324[data-v-1e5dcfd1]{background-position:63.1205673759% 0;height:100%;width:100%}
+[dir] .icon-game-324[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-328[data-v-1e5dcfd1]{background-position:63.829787234% 0;height:100%;width:100%}
+[dir] .icon-game-328[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-339[data-v-1e5dcfd1]{background-position:64.5390070922% 0;height:100%;width:100%}
+[dir] .icon-game-339[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-341[data-v-1e5dcfd1]{background-position:65.2482269504% 0;height:100%;width:100%}
+[dir] .icon-game-341[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-343[data-v-1e5dcfd1]{background-position:65.9574468085% 0;height:100%;width:100%}
+[dir] .icon-game-343[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-345[data-v-1e5dcfd1]{background-position:66.6666666667% 0;height:100%;width:100%}
+[dir] .icon-game-345[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-353[data-v-1e5dcfd1]{background-position:67.3758865248% 0;height:100%;width:100%}
+[dir] .icon-game-353[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-357[data-v-1e5dcfd1]{background-position:68.085106383% 0;height:100%;width:100%}
+[dir] .icon-game-357[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-359[data-v-1e5dcfd1]{background-position:68.7943262411% 0;height:100%;width:100%}
+[dir] .icon-game-359[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-361[data-v-1e5dcfd1]{background-position:69.5035460993% 0;height:100%;width:100%}
+[dir] .icon-game-361[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-362[data-v-1e5dcfd1]{background-position:70.2127659574% 0;height:100%;width:100%}
+[dir] .icon-game-362[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-364[data-v-1e5dcfd1]{background-position:70.9219858156% 0;height:100%;width:100%}
+[dir] .icon-game-364[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-371[data-v-1e5dcfd1]{background-position:71.6312056738% 0;height:100%;width:100%}
+[dir] .icon-game-371[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-373[data-v-1e5dcfd1]{background-position:72.3404255319% 0;height:100%;width:100%}
+[dir] .icon-game-373[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-377[data-v-1e5dcfd1]{background-position:73.0496453901% 0;height:100%;width:100%}
+[dir] .icon-game-377[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-383[data-v-1e5dcfd1]{background-position:73.7588652482% 0;height:100%;width:100%}
+[dir] .icon-game-383[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-384[data-v-1e5dcfd1]{background-position:74.4680851064% 0;height:100%;width:100%}
+[dir] .icon-game-384[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-386[data-v-1e5dcfd1]{background-position:75.1773049645% 0;height:100%;width:100%}
+[dir] .icon-game-386[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-388[data-v-1e5dcfd1]{background-position:75.8865248227% 0;height:100%;width:100%}
+[dir] .icon-game-388[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-390[data-v-1e5dcfd1]{background-position:76.5957446809% 0;height:100%;width:100%}
+[dir] .icon-game-390[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-394[data-v-1e5dcfd1]{background-position:77.304964539% 0;height:100%;width:100%}
+[dir] .icon-game-394[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-398[data-v-1e5dcfd1]{background-position:78.0141843972% 0;height:100%;width:100%}
+[dir] .icon-game-398[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-401[data-v-1e5dcfd1]{background-position:78.7234042553% 0;height:100%;width:100%}
+[dir] .icon-game-401[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-412[data-v-1e5dcfd1]{background-position:79.4326241135% 0;height:100%;width:100%}
+[dir] .icon-game-412[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-413[data-v-1e5dcfd1]{background-position:80.1418439716% 0;height:100%;width:100%}
+[dir] .icon-game-413[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-417[data-v-1e5dcfd1]{background-position:80.8510638298% 0;height:100%;width:100%}
+[dir] .icon-game-417[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-418[data-v-1e5dcfd1]{background-position:81.5602836879% 0;height:100%;width:100%}
+[dir] .icon-game-418[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-421[data-v-1e5dcfd1]{background-position:82.2695035461% 0;height:100%;width:100%}
+[dir] .icon-game-421[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-425[data-v-1e5dcfd1]{background-position:82.9787234043% 0;height:100%;width:100%}
+[dir] .icon-game-425[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-431[data-v-1e5dcfd1]{background-position:83.6879432624% 0;height:100%;width:100%}
+[dir] .icon-game-431[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-432[data-v-1e5dcfd1]{background-position:84.3971631206% 0;height:100%;width:100%}
+[dir] .icon-game-432[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-433[data-v-1e5dcfd1]{background-position:85.1063829787% 0;height:100%;width:100%}
+[dir] .icon-game-433[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-434[data-v-1e5dcfd1]{background-position:85.8156028369% 0;height:100%;width:100%}
+[dir] .icon-game-434[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-438[data-v-1e5dcfd1]{background-position:86.524822695% 0;height:100%;width:100%}
+[dir] .icon-game-438[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-450[data-v-1e5dcfd1]{background-position:87.2340425532% 0;height:100%;width:100%}
+[dir] .icon-game-450[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-454[data-v-1e5dcfd1]{background-position:87.9432624113% 0;height:100%;width:100%}
+[dir] .icon-game-454[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-456[data-v-1e5dcfd1]{background-position:88.6524822695% 0;height:100%;width:100%}
+[dir] .icon-game-456[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-482[data-v-1e5dcfd1]{background-position:89.3617021277% 0;height:100%;width:100%}
+[dir] .icon-game-482[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-492[data-v-1e5dcfd1]{background-position:90.0709219858% 0;height:100%;width:100%}
+[dir] .icon-game-492[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-54[data-v-1e5dcfd1]{background-position:90.780141844% 0;height:100%;width:100%}
+[dir] .icon-game-54[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-58[data-v-1e5dcfd1]{background-position:91.4893617021% 0;height:100%;width:100%}
+[dir] .icon-game-58[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-62[data-v-1e5dcfd1]{background-position:92.1985815603% 0;height:100%;width:100%}
+[dir] .icon-game-62[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-66[data-v-1e5dcfd1]{background-position:92.9078014184% 0;height:100%;width:100%}
+[dir] .icon-game-66[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-68[data-v-1e5dcfd1]{background-position:93.6170212766% 0;height:100%;width:100%}
+[dir] .icon-game-68[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-69[data-v-1e5dcfd1]{background-position:94.3262411348% 0;height:100%;width:100%}
+[dir] .icon-game-69[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-70[data-v-1e5dcfd1]{background-position:95.0354609929% 0;height:100%;width:100%}
+[dir] .icon-game-70[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-71[data-v-1e5dcfd1]{background-position:95.7446808511% 0;height:100%;width:100%}
+[dir] .icon-game-71[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-72[data-v-1e5dcfd1]{background-position:96.4539007092% 0;height:100%;width:100%}
+[dir] .icon-game-72[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-74[data-v-1e5dcfd1]{background-position:97.1631205674% 0;height:100%;width:100%}
+[dir] .icon-game-74[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-76[data-v-1e5dcfd1]{background-position:97.8723404255% 0;height:100%;width:100%}
+[dir] .icon-game-76[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-85[data-v-1e5dcfd1]{background-position:98.5815602837% 0;height:100%;width:100%}
+[dir] .icon-game-85[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-88[data-v-1e5dcfd1]{background-position:99.2907801418% 0;height:100%;width:100%}
+[dir] .icon-game-88[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}
+.icon-game-90[data-v-1e5dcfd1]{background-position:100% 0;height:100%;width:100%}
+[dir] .icon-game-90[data-v-1e5dcfd1]{background-image:url(GamesIcons.95c7ef0b.png);background-size:14200% auto}

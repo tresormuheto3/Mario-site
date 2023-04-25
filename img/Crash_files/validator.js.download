@@ -1,0 +1,34 @@
+/**
+ * Модуль для валидации данных
+ * @module Validator
+ */
+var Core = Core || {};
+Core.validator = (/** @lends module:Validator */function() {
+    // TODO
+    var isEmail = function(str) {
+        return false;
+    };
+
+    /**
+     * Является ли денежной суммой
+     * @param str
+     * @returns {boolean}
+     */
+    var isMoney = function(str) {
+        return (/^\d+(\.{1,1}\d{0,2}){0,1}$/g).test(str);
+    };
+
+    /**
+     * Является ли датой
+     * @param date дата в одном из форматов
+     * @returns {boolean}
+     */
+    var isDate = function (date) {
+        return Object.prototype.toString.call(date) === '[object Date]' && !isNaN(date.getTime());
+    };
+
+    return {
+        isMoney: isMoney,
+        isDate: isDate
+    }
+})();

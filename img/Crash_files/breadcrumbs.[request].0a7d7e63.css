@@ -1,0 +1,17 @@
+.u-visually-hidden[data-v-0e8a8754]{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+[dir] .u-visually-hidden[data-v-0e8a8754]{padding:0;margin:-1px;border:0}
+.breadcrumbs[data-v-0e8a8754]{position:absolute;top:0.625em;top:var(--breadcrumbs-top, 0.625em);z-index:1001}
+[dir=ltr] .breadcrumbs[data-v-0e8a8754],[dir="ltr"] .breadcrumbs[data-v-0e8a8754],[dir='ltr'] .breadcrumbs[data-v-0e8a8754]{right:auto;right:var(--breadcrumbs-right, auto);left:0.75em;left:var(--breadcrumbs-left, 0.75em)}
+[dir=rtl] .breadcrumbs[data-v-0e8a8754],[dir="rtl"] .breadcrumbs[data-v-0e8a8754],[dir='rtl'] .breadcrumbs[data-v-0e8a8754]{left:auto;left:var(--breadcrumbs-right, auto);right:0.75em;right:var(--breadcrumbs-left, 0.75em)}
+.breadcrumbs__list[data-v-0e8a8754]{display:flex;align-items:center;list-style:none}
+[dir] .breadcrumbs__list[data-v-0e8a8754]{margin-top:0;margin-bottom:0}
+[dir=ltr] .breadcrumbs__list[data-v-0e8a8754],[dir="ltr"] .breadcrumbs__list[data-v-0e8a8754],[dir='ltr'] .breadcrumbs__list[data-v-0e8a8754]{padding-left:0}
+[dir=rtl] .breadcrumbs__list[data-v-0e8a8754],[dir="rtl"] .breadcrumbs__list[data-v-0e8a8754],[dir='rtl'] .breadcrumbs__list[data-v-0e8a8754]{padding-right:0}
+.breadcrumbs__item[data-v-0e8a8754]{display:flex;color:hsl(0, 0%, 90%);color:var(--breadcrumbs-color, hsl(0, 0%, 90%))}
+.breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after{content:"/";display:inline-block;font-size:1em}
+[dir=ltr] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after,[dir="ltr"] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after,[dir='ltr'] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after{margin-right:.375em;margin-left:.5em}
+[dir=rtl] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after,[dir="rtl"] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after,[dir='rtl'] .breadcrumbs__item[data-v-0e8a8754]:not(:last-child)::after{margin-left:.375em;margin-right:.5em}
+.breadcrumbs__btn[data-v-0e8a8754]{text-decoration:underline;font-size:inherit}
+[dir] .breadcrumbs__btn[data-v-0e8a8754]{padding:0;transition:color .2s ease}
+.breadcrumbs__btn[data-v-0e8a8754]:hover{color:hsl(0, 0%, 100%);color:var(--breadcrumbs-color-hover, hsl(0, 0%, 100%))}
+.breadcrumbs__text[data-v-0e8a8754]{display:block;text-transform:uppercase;font-size:1em}

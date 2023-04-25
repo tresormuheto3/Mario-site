@@ -1,0 +1,141 @@
+// TOTO addslashes
+/**
+ * Модуль утилит
+ * @module util
+ */
+var Core = Core || {};
+Core.util = (/** @lends module:util */function() {
+    /**
+     * Экранировать кавычки
+     * @param str строка
+     */
+    var addSlashes = function(str) {
+        return str.replace('/(["\'\])/g', "\\$1");
+    };
+
+    /**
+     * Получить из числа строку фиксированной длины, в которой отсутствующие разряды заполняются нулями
+     * @param value число
+     * @param length
+     */
+    var toFixLengthString = function(value, length) {
+        var str,
+            diff,
+            i,
+            result = '';
+
+        length = length || 2;
+
+        value = parseInt(value, 10);
+
+        if (value < 0) {
+            return false;
+        }
+
+        str = value.toString();
+        diff = length - str.length;
+
+        if (diff <= 0) {
+            return str;
+        }
+
+        for (i = 0; i < diff; i++) {
+            result += '0';
+        }
+
+        result += str;
+        return result;
+    };
+
+    /**
+     * Отрисовать электронную почту
+     * @param user пользователь (часть адреса до @)
+     * @param domain домен (часть адреса после @)
+     */
+    var writeEmail = function(user, domain) {
+        document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
+    };
+
+    /**
+     * Получить серверное время
+     * @param callback Callback-функция
+     */
+    var getServerTime = function(callback) {
+        $.ajax({
+            url: 'getservertime',
+            type: 'get',
+            dataType: 'text',
+            success: function (res) {
+                var time = new Date(Number(res * 1000));
+                if (typeof callback == 'function') {
+                    callback(time);
+                }
+            }
+        });
+    };
+
+    var dateCalendar = function (dtStart, tzo, short_format) {
+        // Функция для разбора дат;
+
+        tzo = tzo || Core.cookie.get('tzo');
+        short_format = short_format || false;
+
+        var day,
+            month,
+            hours,
+            minutes,
+            seconds,
+            year,
+            gameTimeStart = {};
+
+        dtStart = new Date(new Date(dtStart).getTime() + 3600000 * tzo);
+
+        day = dtStart.getUTCDate() < 10 ? '0' + dtStart.getUTCDate() : dtStart.getUTCDate();
+        month = (dtStart.getUTCMonth() + 1) < 10 ? '0' + (dtStart.getUTCMonth() + 1) : (dtStart.getUTCMonth() + 1);
+        hours = dtStart.getUTCHours() < 10 ? '0' + dtStart.getUTCHours() : dtStart.getUTCHours();
+        year = dtStart.getUTCFullYear();
+        minutes = dtStart.getUTCMinutes() < 10 ? '0' + dtStart.getUTCMinutes() : dtStart.getUTCMinutes();
+        seconds = dtStart.getUTCSeconds() < 10 ? '0' + dtStart.getUTCSeconds() : dtStart.getUTCSeconds();
+
+        gameTimeStart.date = day + '.' + month + (!short_format ? '.' + year : '');
+        gameTimeStart.time = hours + ':' + minutes + (!short_format ? ':' + seconds : '');
+
+        return gameTimeStart;
+    };
+
+    var isNotUndefined = function (variable) {
+        return typeof variable !== 'undefined';
+    };
+
+    return {
+        addSlashes: addSlashes,
+        toFixLengthString: toFixLengthString,
+        writeEmail: writeEmail,
+        getServerTime: getServerTime,
+        dateCalendar: dateCalendar,
+        isNotUndefined : isNotUndefined
+    }
+})();
+
+
+// WARNING!!! Функция экспериментальная и не везде реализована (собственно, ниже написан костыль)
+// ИСПОЛЬЗОВАТЬ КРАЙНЕ ОСТОРОЖНО!!!
+window.requestIdleCallback =
+    window.requestIdleCallback ||
+    function (cb) {
+        var start = Date.now();
+        return setTimeout(function () {
+            cb({
+                didTimeout: false,
+                timeRemaining: function () {
+                    return Math.max(0, 50 - (Date.now() - start));
+                }
+            });
+        }, 1);
+    };
+
+window.cancelIdleCallback =
+    window.cancelIdleCallback ||
+    function (id) {
+        clearTimeout(id);
+    };

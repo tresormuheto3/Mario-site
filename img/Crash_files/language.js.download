@@ -1,0 +1,35 @@
+/**
+ * Модуль для работы с языками
+ * @module Language
+ */
+var Core = Core || {};
+Core.language = (/** @lends module:Language */function() {
+    /**
+     * Настройки
+     * @private
+     */
+    var _settings = {
+        default: 'ru'
+    };
+
+    /**
+     * Получить язык
+     * @param defaultValue значение по умолчанию (если нет cookie)
+     */
+    var getLid = function(defaultValue) {
+        defaultValue = defaultValue || _settings.default;
+        return Core.cookie.get('lng', defaultValue);
+    };
+
+    /**
+     * Проверить, нужно ли передавать значение языка сервисному методу
+     */
+    var isValidForService = function(lng) {
+        return lng != _settings.default && lng.length == 2;
+    };
+
+    return {
+        getLid: getLid,
+        isValidForService: isValidForService
+    }
+})();

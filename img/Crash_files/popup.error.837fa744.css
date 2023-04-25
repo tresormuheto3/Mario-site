@@ -1,0 +1,46 @@
+.u-visually-hidden[data-v-ce1a38d8]{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+[dir] .u-visually-hidden[data-v-ce1a38d8]{padding:0;margin:-1px;border:0}
+.games-popup[data-v-ce1a38d8]{position:relative;color:#fff}
+[dir] .games-popup[data-v-ce1a38d8]{margin-right:auto;margin-left:auto;box-shadow:0em .1875em .375em 0 rgba(0,0,0,.5)}
+.games-popup--error[data-v-ce1a38d8]{width:40em;min-height:18.75em;color:hsl(0, 0%, 100%);color:var(--theme-on-primary--60, hsl(0, 0%, 100%))}
+[dir] .games-popup--error[data-v-ce1a38d8]{box-shadow:0em .1875em .375em 0em rgba(0,0,0,.5);background-color:hsl(206, 73%, 15%);background-color:var(--theme-primary--60, hsl(206, 73%, 15%))}
+.games-popup--error[data-v-ce1a38d8]::before{content:"";position:absolute;top:0;bottom:0;pointer-events:none}
+[dir] .games-popup--error[data-v-ce1a38d8]::before{right:0;left:0;background:url(error-popup_bg.61c0c833.png) center/cover no-repeat}
+@media screen and (max-width: 679px){
+.games-popup--mobile[data-v-ce1a38d8]{width:calc(100vw - 2.5em);height:auto}}
+.games-popup--mobile .games-popup__close[data-v-ce1a38d8]{top:.4375em}
+[dir=ltr] .games-popup--mobile .games-popup__close[data-v-ce1a38d8],[dir="ltr"] .games-popup--mobile .games-popup__close[data-v-ce1a38d8],[dir='ltr'] .games-popup--mobile .games-popup__close[data-v-ce1a38d8]{right:.3125em}
+[dir=rtl] .games-popup--mobile .games-popup__close[data-v-ce1a38d8],[dir="rtl"] .games-popup--mobile .games-popup__close[data-v-ce1a38d8],[dir='rtl'] .games-popup--mobile .games-popup__close[data-v-ce1a38d8]{left:.3125em}
+[dir] .games-popup--mobile .games-popup__close[data-v-ce1a38d8]::before,[dir] .games-popup--mobile .games-popup__close[data-v-ce1a38d8]::after{background:hsl(0, 0%, 100%);background:var(--theme-on-primary--60, hsl(0, 0%, 100%))}
+@media screen and (max-width: 679px){
+.games-popup--mobile .games-popup__button[data-v-ce1a38d8]{width:100%}
+[dir] .games-popup--mobile .games-popup__button[data-v-ce1a38d8]{margin-top:1.5625em}}
+@media screen and (max-width: 679px){
+[dir] .games-popup--mobile .games-popup__content[data-v-ce1a38d8]{padding:1.25em}}
+@media screen and (max-width: 679px){
+[dir] .games-popup--mobile .games-popup__title[data-v-ce1a38d8]{margin-bottom:1.25em}}
+.games-popup__close[data-v-ce1a38d8]{position:absolute;top:-1.5625em;width:1.5625em;height:1.5625em;font-size:inherit}
+[dir] .games-popup__close[data-v-ce1a38d8]{cursor:pointer;padding:0;margin:0}
+[dir=ltr] .games-popup__close[data-v-ce1a38d8],[dir="ltr"] .games-popup__close[data-v-ce1a38d8],[dir='ltr'] .games-popup__close[data-v-ce1a38d8]{right:-2.5em}
+[dir=rtl] .games-popup__close[data-v-ce1a38d8],[dir="rtl"] .games-popup__close[data-v-ce1a38d8],[dir='rtl'] .games-popup__close[data-v-ce1a38d8]{left:-2.5em}
+.games-popup__close[data-v-ce1a38d8]::before,.games-popup__close[data-v-ce1a38d8]::after{content:"";position:absolute;top:50%;width:100%;height:.125em}
+[dir] .games-popup__close[data-v-ce1a38d8]::before,[dir] .games-popup__close[data-v-ce1a38d8]::after{background:#fff}
+[dir=ltr] .games-popup__close[data-v-ce1a38d8]::before,[dir="ltr"] .games-popup__close[data-v-ce1a38d8]::before,[dir='ltr'] .games-popup__close[data-v-ce1a38d8]::before,[dir=ltr] .games-popup__close[data-v-ce1a38d8]::after,[dir="ltr"] .games-popup__close[data-v-ce1a38d8]::after,[dir='ltr'] .games-popup__close[data-v-ce1a38d8]::after{left:50%}
+[dir=rtl] .games-popup__close[data-v-ce1a38d8]::before,[dir="rtl"] .games-popup__close[data-v-ce1a38d8]::before,[dir='rtl'] .games-popup__close[data-v-ce1a38d8]::before,[dir=rtl] .games-popup__close[data-v-ce1a38d8]::after,[dir="rtl"] .games-popup__close[data-v-ce1a38d8]::after,[dir='rtl'] .games-popup__close[data-v-ce1a38d8]::after{right:50%}
+[dir=ltr] .games-popup__close[data-v-ce1a38d8]::before,[dir="ltr"] .games-popup__close[data-v-ce1a38d8]::before,[dir='ltr'] .games-popup__close[data-v-ce1a38d8]::before{-webkit-transform:translate(-50%, -50%) rotate(45deg);transform:translate(-50%, -50%) rotate(45deg)}
+[dir=rtl] .games-popup__close[data-v-ce1a38d8]::before,[dir="rtl"] .games-popup__close[data-v-ce1a38d8]::before,[dir='rtl'] .games-popup__close[data-v-ce1a38d8]::before{-webkit-transform:translate(50%, -50%) rotate(-45deg);transform:translate(50%, -50%) rotate(-45deg)}
+[dir=ltr] .games-popup__close[data-v-ce1a38d8]::after,[dir="ltr"] .games-popup__close[data-v-ce1a38d8]::after,[dir='ltr'] .games-popup__close[data-v-ce1a38d8]::after{-webkit-transform:translate(-50%, -50%) rotate(-45deg);transform:translate(-50%, -50%) rotate(-45deg)}
+[dir=rtl] .games-popup__close[data-v-ce1a38d8]::after,[dir="rtl"] .games-popup__close[data-v-ce1a38d8]::after,[dir='rtl'] .games-popup__close[data-v-ce1a38d8]::after{-webkit-transform:translate(50%, -50%) rotate(45deg);transform:translate(50%, -50%) rotate(45deg)}
+.games-popup__content[data-v-ce1a38d8]{display:flex;flex-direction:column;align-items:center}
+[dir] .games-popup__content[data-v-ce1a38d8]{padding:3.125em}
+.games-popup__title[data-v-ce1a38d8]{text-transform:uppercase;font-size:1.6875em;font-weight:700}
+[dir] .games-popup__title[data-v-ce1a38d8]{margin-top:0;text-align:center}
+[dir] .games-popup__subtitle[data-v-ce1a38d8]{margin-top:0;text-align:center}
+.games-popup__button[data-v-ce1a38d8]{width:18.75em;height:2.625em;color:#fff}
+[dir] .games-popup__button[data-v-ce1a38d8]{margin-top:3.75em;transition:background-color .2s ease-in-out}
+.games-popup__button--light[data-v-ce1a38d8]{color:hsl(0, 0%, 100%);color:var(--theme-on-secondary, hsl(0, 0%, 100%))}
+[dir] .games-popup__button--light[data-v-ce1a38d8]{background-color:hsl(81, 55%, 40%);background-color:var(--theme-secondary, hsl(81, 55%, 40%))}
+[dir] .games-popup__button--light[data-v-ce1a38d8]:hover{box-shadow:none;background-color:hsl(82, 57%, 45%);background-color:var(--theme-secondary-15, hsl(82, 57%, 45%))}
+.games-popup-button[data-v-ce1a38d8]{text-transform:uppercase;font-family:inherit;font-size:inherit}
+[dir] .games-popup-button[data-v-ce1a38d8]{cursor:pointer;transition:background-color .2s ease-in-out,box-shadow .2s ease-in-out}
+.games-popup-button__text[data-v-ce1a38d8]{text-transform:uppercase;font-size:.875em;font-weight:500}
